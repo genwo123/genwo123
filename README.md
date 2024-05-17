@@ -3,8 +3,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=우건의%20깃허브&fontSize=70&fontAlign=50&fontAlignY=40" alt="우건의 깃허브" />
 </div>
 
+<h3 align="center">✨ 연락처 ✨</h3>
+<div>
+  <a href="mailto:rjsdn9008@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://open.kakao.com/o/(https://open.kakao.com/o/sBc3cKcb)">
+    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black" alt="KakaoTalk">
+  </a>
+</div>
 
-<!--내용 부분-->
+
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
