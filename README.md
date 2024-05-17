@@ -6,13 +6,13 @@
 <h3 align="center">✨ 연락처 ✨</h3>
 <div align="center">
   <a href="mailto:rjsdn9008@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">&nbsp
   </a>
   <a href="https://open.kakao.com/o/https://open.kakao.com/o/sBc3cKcb">
-    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black" alt="KakaoTalk">
+    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black" alt="KakaoTalk">&nbsp
   </a>
   <a href="https://discord.com/users/genwo123@naver.com">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">&nbsp
   </a>
 </div>
 
@@ -22,7 +22,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
-  <img src="" />&nbsp
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />&nbsp
 </div>
 
 <div align="center">
@@ -53,8 +54,10 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Unreal%20Engine-313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white" />&nbsp
-<img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Unreal%20Engine-313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">&nbsp
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">&nbsp
 </div>
 
 <div align="center">
