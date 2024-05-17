@@ -11,6 +11,9 @@
   <a href="https://open.kakao.com/o/https://open.kakao.com/o/sBc3cKcb">
     <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black" alt="KakaoTalk">
   </a>
+  <a href="https://discord.com/users/genwo123@naver.com">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </div>
 
 
