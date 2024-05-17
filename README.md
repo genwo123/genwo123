@@ -51,7 +51,5 @@
 </div>
 <br>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genwo123&layout=compact" alt="Top Langs" style="width: 50%;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=genwo123&show_icons=true&theme=radical" alt="WooGun's GitHub stats" style="width: 50%;" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genwo123&layout=compact" alt="Top Langs" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=genwo123&show_icons=true&theme=radical" alt="WooGun's GitHub stats" style="width: 50%;" />
