@@ -3,6 +3,11 @@
   <img src="" />
 </div>
 
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=genwo123&show_icons=true&theme=radical)
+</div>
+
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
