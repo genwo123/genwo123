@@ -14,6 +14,9 @@
   <a href="https://discord.com/users/genwo123@naver.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
+  <a href="https://www.notion.so/woogun/276bd105b9144138aec341ca46d0a315" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+  </a>
 </div>
 
 <br>
@@ -44,9 +47,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <a href="https://www.notion.so/woogun/276bd105b9144138aec341ca46d0a315" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
-  </a>
   <img src="https://img.shields.io/badge/Sourcetree-0052CC.svg?style=for-the-badge&logo=sourcetree&logoColor=white"/>&nbsp
 </div>
 <br>
