@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=우건의%20깃허브&fontSize=70&fontAlign=50&fontAlignY=40" alt="우건의 깃허브" />
 </div>
 
 
