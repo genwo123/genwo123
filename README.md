@@ -3,10 +3,6 @@
   <img src="" />
 </div>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=genwo123&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
-</div>
-
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -70,4 +66,8 @@
     <img
       src=""/>&nbsp
   </a>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genwo123&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=genwo123&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
 </div>
