@@ -5,13 +5,13 @@
 
 <h3 align="center">✨ 연락처 ✨</h3>
 <div align="center">
-  <a href="mailto:rjsdn9008@gmail.com">
+  <a href="mailto:rjsdn9008@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">&nbsp
   </a>
-  <a href="https://open.kakao.com/o/https://open.kakao.com/o/sBc3cKcb">
+  <a href="https://open.kakao.com/o/https://open.kakao.com/o/sBc3cKcb" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black" alt="KakaoTalk">&nbsp
   </a>
-  <a href="https://discord.com/users/genwo123@naver.com">
+  <a href="https://discord.com/users/genwo123@naver.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">&nbsp
   </a>
 </div>
