@@ -68,10 +68,10 @@
   </a>
 </div>
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genwo123&layout=compact" alt="Top Langs" />
 </div>
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=genwo123&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
 </div>
