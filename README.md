@@ -81,11 +81,11 @@
   </a>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <div style="width: 45%;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <div style="width: 50%; max-width: 400px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genwo123&layout=compact" alt="Top Langs" style="width: 100%;" />
   </div>
-  <div style="width: 45%;">
+  <div style="width: 50%; max-width: 400px;">
     <img src="https://github-readme-stats.vercel.app/api?username=genwo123&show_icons=true&theme=radical" alt="WooGun's GitHub stats" style="width: 100%;" />
   </div>
 </div>
