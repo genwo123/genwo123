@@ -17,6 +17,9 @@
   <a href="https://www.notion.so/woogun/276bd105b9144138aec341ca46d0a315" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
   </a>
+  <a href="https://geonu-study0820.tistory.com/24" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" />&nbsp
+  </a>
 </div>
 
 <br>
