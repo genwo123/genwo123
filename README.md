@@ -61,7 +61,10 @@
 ---
 
 <div align="center">
-  <a href="링크1"><img src="https://img.shields.io/badge/게임 개발 포트폴리오-0000FF.svg?style=for-the-badge"/></a>
-  &nbsp;&nbsp;
-  <a href="링크2"><img src="https://img.shields.io/badge/게임 QA 포트폴리오-FF4500.svg?style=for-the-badge"/></a>
+  <a href="게임_개발_포트폴리오_링크"><img src="게임개발배너.png" alt="게임 개발 포트폴리오" style="width:70%;"/></a>
 </div>
+<br>
+<div align="center">
+  <a href="게임_QA_포트폴리오_링크"><img src="게임QA배너.png" alt="게임 QA 포트폴리오" style="width:70%;"/></a>
+</div>
+
