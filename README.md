@@ -53,6 +53,15 @@
   <img src="https://img.shields.io/badge/Sourcetree-0052CC.svg?style=for-the-badge&logo=sourcetree&logoColor=white"/>&nbsp
 </div>
 <br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genwo123&layout=compact" alt="Top Langs" style="width: 45%;" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=genwo123&show_icons=true&theme=radical" alt="WooGun's GitHub stats" style="width: 45%;" />
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genwo123&layout=compact" alt="Top Langs" style="width: 50%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=genwo123&show_icons=true&theme=radical" alt="WooGun's GitHub stats" style="width: 50%;" />
+---
+
+<div align="center">
+  <a href="링크1"><img src="https://img.shields.io/badge/게임 개발 포트폴리오-0000FF.svg?style=for-the-badge"/></a>
+  &nbsp;&nbsp;
+  <a href="링크2"><img src="https://img.shields.io/badge/게임 QA 포트폴리오-FF4500.svg?style=for-the-badge"/></a>
+</div>
