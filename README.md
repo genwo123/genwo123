@@ -59,16 +59,19 @@
 </div>
 
 ---
+<h3 align="center">🛠 Portfolio 🛠</h3>
 
 <div align="center">
   <a href="https://github.com/genwo123/Game-Dev-Portfolio">
-    <img src="https://github.com/genwo123/your-repo/blob/main/images/게임개발배너.png" alt="게임 개발 포트폴리오" style="width:70%;" />
+    <img src="https://github.com/user-attachments/assets/b795afdb-7e26-43a2-a067-57a4d1bc0c9a" alt="게임 개발 포트폴리오" style="width:70%;" />
   </a>
 </div>
+
 <br>
+
 <div align="center">
   <a href="https://github.com/genwo123/Game-QA-Portfolio">
-    <img src="https://github.com/genwo123/your-repo/blob/main/images/게임QA배너.png" alt="게임 QA 포트폴리오" style="width:70%;" />
+    <img src="https://github.com/user-attachments/assets/63deeac1-dea3-47e9-abbe-64227b8febd6" alt="게임 QA 포트폴리오" style="width:70%;" />
   </a>
 </div>
 
