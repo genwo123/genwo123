@@ -59,15 +59,22 @@
 </div>
 
 ---
-<h3 align="center">🛠 Portfolio 🛠</h3>
+<h3 align="center">📋 Resume & Portfolio 📋</h3>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://github.com/genwo123/Game-Dev-Portfolio">
-    <img src="https://github.com/user-attachments/assets/b795afdb-7e26-43a2-a067-57a4d1bc0c9a" alt="게임 개발 포트폴리오" style="width:45%;" />
+  <!-- 이력서 링크 -->
+  <a href="[이력서 레포지토리 링크]">
+    <img src="[이력서 이미지 링크]" alt="게임 개발자 이력서" style="width:30%;" />
   </a>
 
+  <!-- 게임 개발 포트폴리오 -->
+  <a href="https://github.com/genwo123/Game-Dev-Portfolio">
+    <img src="[게임 개발 포트폴리오 이미지]" alt="게임 개발 포트폴리오" style="width:30%;" />
+  </a>
+
+  <!-- 게임 QA 포트폴리오 -->
   <a href="https://github.com/genwo123/Game-QA-Portfolio">
-    <img src="https://github.com/user-attachments/assets/63deeac1-dea3-47e9-abbe-64227b8febd6" alt="게임 QA 포트폴리오" style="width:45%;" />
+    <img src="[게임 QA 포트폴리오 이미지]" alt="게임 QA 포트폴리오" style="width:30%;" />
   </a>
 </div>
 
