@@ -72,47 +72,46 @@
   - 코드 리뷰 문화 주도 및 팀 생산성 향상
 
 ## 🎮 Game Projects
-### 미신전 (未信殿)
+### [미신전 (未信殿)](https://github.com/genwo123/Y2S3_MISINJEON_CPP)
 <div align="center">
-  <img src="../image/미신전.png" alt="미신전 프리뷰" width="600" />
+  <a href="https://github.com/genwo123/Y2S3_MISINJEON_CPP">
+    <img src="../image/미신전.png" alt="미신전 프리뷰" width="600" />
+  </a>
 </div>
 
 어드벤처 퍼즐 게임 | 2024.09 ~ 2024.10
 - Unreal Engine 5를 활용한 2인 개발 프로젝트
 - C++/Blueprint 하이브리드 방식으로 코어 시스템 구현
-- [프로젝트 상세보기](https://github.com/genwo123/Y2S3_MISINJEON_CPP)
 
-### 브릿지런 (BridgeRun)
+### [브릿지런 (BridgeRun)](https://github.com/genwo123/BridgeRun)
 <div align="center">
-  <img src="../image/브릿지런.png" alt="브릿지런 프리뷰" width="600" />
+  <a href="https://github.com/genwo123/BridgeRun">
+    <img src="../image/브릿지런.png" alt="브릿지런 프리뷰" width="600" />
+  </a>
 </div>
 
 전략 액션 게임 | 2024.10 ~ 현재
 - Unreal Engine 5 기반 멀티플레이어 게임 개발
 - 네트워크 최적화 및 물리 기반 캐릭터 시스템 구현
-- [프로젝트 상세보기](https://github.com/genwo123/BridgeRun)
 
 ## 💻 Collaboration Projects
-### What About
+### [What About](https://github.com/genwo123/WhatAbout)
 AWS 리빙랩 해커톤 대상 수상작 | 2024.08
 - AWS 클라우드 기반 서비스 개발
-- [프로젝트 상세보기](https://github.com/genwo123/WhatAbout)
 
-### UFO's (University Festival Order System)
+### [UFO's (University Festival Order System)](https://github.com/genwo123/UFOs)
 축제 주문 관리 시스템 | 2024.05
 - QR 코드 기반 주문 시스템 개발 
-- [프로젝트 상세보기](https://github.com/genwo123/UFOs)
 
-### 너나묵자 (Neonamukja)
+### [너나묵자 (Neonamukja)](https://github.com/genwo123/NNMJ_Project)
 배달 커넥팅 앱 | 2022.11
 - 기숙사생 배달 파트너 매칭 서비스
-- [프로젝트 상세보기](https://github.com/genwo123/NNMJ_Project)
 
-### RPG Inspection
+### [RPG Inspection](https://github.com/RPG-Inspection/front)
 게임 스펙 검사기 | 2024.05
 - 웹 기반 RPG 게임 스펙 분석 도구
-- [프로젝트 상세보기](https://github.com/RPG-Inspection/front)
 
+- 
 ## 👥 Team Stories
 ### 미신전 프로젝트
 > "건우는 팀의 기술적 성장을 이끌어냈습니다. 새로운 기능을 연구하고 공유하는 문화를 만들었죠."
