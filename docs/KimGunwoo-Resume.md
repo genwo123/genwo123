@@ -1,10 +1,12 @@
 <div align="center">
   <img src="../image/김건우4.jpg" alt="프로필 사진" width="150" style="border-radius: 50%;" />
   
-  # 김건우 (Gunwoo Kim)
-  > "자유로운 도전과 화합을 통한 게임 개발"
+ # 김건우 (Gunwoo Kim)
+> "즐거움으로 시작하는 도전적인 여정"  
+> "좌절도 경험으로 만드는 개발자
+
+  #### 익숙함 속에서 즐거움을 이끌어내는 게임 개발자
   
-  #### 새로운 경험을 만드는 게임 개발자
 </div>
 
 ## 📞 Contact
@@ -47,20 +49,27 @@
 > *- 박OO, 백엔드 개발자*
 
 ## 🛠 Technical Skills
-### Core
-- Unreal Engine 5 (C++, Blueprint)
-- DirectX
-- 게임 수학/물리
 
-### Programming
-- C/C++
-- React.js
-- JavaScript
+### Game Development
+- **Unreal Engine**: UE4/5 상용 게임 개발 경험, C++ 기반 게임플레이 프레임워크 구현
+  - 멀티플레이어 게임 개발 및 네트워크 최적화
+  - 게임플레이 프레임워크 설계 및 구현
+  - Blueprint & C++ 하이브리드 개발 경험
 
-### Tools
-- Git/GitHub
-- Visual Studio
-- VS Code
+- **Game Programming**
+  - DirectX 기반 렌더링 시스템 구현
+  - 물리 기반 캐릭터 컨트롤러 개발
+  - 게임 수학/물리 알고리즘 구현
+
+### Programming & Tools
+- **Languages**: 
+  - C/C++: 게임 엔진 프로그래밍, 알고리즘 구현
+  - JavaScript/React.js: 웹 프론트엔드 개발, 실시간 데이터 처리
+
+- **Development Environment**:
+  - Visual Studio/VS Code를 활용한 크로스 플랫폼 개발
+  - Git/GitHub 기반 협업 및 버전 관리
+  - 코드 리뷰 문화 주도 및 팀 생산성 향상
 
 ## 🎮 Game Projects
 
@@ -92,12 +101,12 @@ AWS 리빙랩 해커톤 대상 수상작 | 2024.08
 - [프로젝트 상세보기](https://github.com/genwo123/WhatAbout)
 
 ### UFO's (University Festival Order System)
-축제 주문 관리 시스템 | 2024.07
+축제 주문 관리 시스템 | 2024.05
 - QR 코드 기반 주문 시스템 개발 
 - [프로젝트 상세보기](https://github.com/genwo123/UFOs)
 
 ### 너나묵자 (Neonamukja)
-배달 커넥팅 앱 | 2024.06
+배달 커넥팅 앱 | 2022.11
 - 기숙사생 배달 파트너 매칭 서비스
 - [프로젝트 상세보기](https://github.com/genwo123/NNMJ_Project)
 
@@ -116,23 +125,30 @@ AWS 리빙랩 해커톤 대상 수상작 | 2024.08
 ## 🎓 Education
 **연암공과대학교** (2024.03 ~ 2024.12)
 - 스마트소프트웨어학과(심화)
-- GPA: 3.13/4.5
+- GPA: 3.45/4.5
 
 ## 📚 Research & Studies
-- "게임 개발 교육의 현황과 문제점: 코딩 교육과 게임 제작의 연계성" 논문
-- "휴식게이지" 게임 시스템 연구 프로젝트
-- 프로그래머스 코딩 테스트 스터디 운영 (2LV)
+
+### 스마일게이트 퓨처랩 챌린지 (2024.08)
+- 게임 개발 관련 개인 연구 프로젝트 진행
+  - Unreal Engine C++ 게임 개발 심화 학습 및 실습
+  - 학습 내용 정리 및 회고 발표 진행
+  - [학습 기록 보기](https://github.com/genwo123/UE_CPP_LectureSummary)
+
+### 연구 및 도전
+- GSKO 2023 논문 도전: "게임 개발 교육의 현황과 문제점: 코딩 교육과 게임 제작의 연계성"
+- 프로그래머스 코딩 테스트 스터디 운영 (1~2LV)
 
 ## 🌱 Growth & Activities
-- **지속적인 사회 공헌**: 2019-2024, 분기별 1회 이상 헌혈 참여
-- **게임 개발 스터디**: 언리얼 엔진 스터디 그룹 운영
-- **기술 블로그**: 주 1회 이상 개발 경험 공유
+### 플린디 1기 활동
+- 게임 분석 & 리뷰 프로그램 참여
+- 기존 게임의 리브랜딩 프로젝트 수행
+- 게임 디자인 관점에서의 분석 역량 강화
 
+### 개인 성장
+- 2021-현재: 분기별 정기 헌혈 참여
+- 게임 개발 관련 서적 학습 및 리뷰 기록
+  
 ## 🎖 Military Service
-- 육군 병장 만기 전역
+- 육군 병장 만기 전역 (21사단 "백두산부대" 통신병)
 - 2019.10.28 ~ 2021.05.14
-
-## 📋 Additional Information
-*상세 개인정보 및 추가 정보는 PDF 버전 이력서 참조*
-- 거주지: [PDF 버전 참조]
-- 생년월일: [PDF 버전 참조]
