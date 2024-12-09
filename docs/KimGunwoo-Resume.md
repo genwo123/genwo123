@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../image/김건우4.jpg" alt="프로필 사진" width="150"  style="border-radius: 50%;" />
+  <img src="../image/김건우4.jpg" alt="프로필 사진" width="150" style="border-radius: 50%;" />
   
   # 김건우 (Gunwoo Kim)
   > "자유로운 도전과 화합을 통한 게임 개발"
@@ -62,55 +62,49 @@
 - Visual Studio
 - VS Code
 
-## 🎮 Projects
+## 🎮 Game Projects
+
 ### 미신전 (未信殿)
-**쥐구멍 마을의 수수께끼를 풀어가는 어드벤처 게임**  
-*2024.09 ~ 2024.10*
 <div align="center">
   <img src="../image/misinjeon-preview.jpg" alt="미신전 프리뷰" width="600" />
 </div>
 
-#### 프로젝트 개요
-- 연암공과대학교 졸업 전시회 출품작
-- 2인 개발 프로젝트 진행
-- Unreal Engine 5 활용
-
-#### 주요 개발 내용
-- 인터랙션 시스템 설계 및 구현
-  - NPC 대화 시스템
-  - 아이템 상호작용
-  - 게임 진행 트리거 시스템
-- 게임 저장/불러오기 시스템
-- UI/UX 시스템 설계
-
-#### 프로젝트 경험
-- "초기에는 Blueprint만으로 개발을 시작했지만, 팀원과의 논의 끝에 C++와의 하이브리드 방식을 도입했습니다. 이 결정으로 개발 효율과 성능 모두를 확보할 수 있었습니다."
-- "매주 코드 리뷰를 통해 팀원간의 지식 공유와 코드 품질 향상을 이끌어냈습니다."
-
-#### 성과
-- 졸업 전시회 성공적 시연
-- 관람객 피드백 수집 및 반영
+어드벤처 퍼즐 게임 | 2024.09 ~ 2024.10
+- Unreal Engine 5를 활용한 2인 개발 프로젝트
+- C++/Blueprint 하이브리드 방식으로 코어 시스템 구현
+- [프로젝트 상세보기](https://github.com/genwo123/Y2S3_MISINJEON_CPP)
 
 ### 브릿지런 (BridgeRun)
-**팀 기반 전략 액션 게임**  
-*2024.10 ~ 현재*
 <div align="center">
   <img src="../image/bridgerun-preview.jpg" alt="브릿지런 프리뷰" width="600" />
 </div>
 
-#### 프로젝트 개요
-- 2인 개발 진행 중
-- Unreal Engine 5 활용
+전략 액션 게임 | 2024.10 ~ 현재
+- Unreal Engine 5 기반 멀티플레이어 게임 개발
+- 네트워크 최적화 및 물리 기반 캐릭터 시스템 구현
+- [프로젝트 상세보기](https://github.com/genwo123/BridgeRun)
 
-#### 개발 내용
-- 캐릭터 시스템 구현
-- 전투 메커닉 설계
-- 팀 플레이 시스템 개발
-- 점수 시스템 구현
+## 💻 Collaboration Projects
 
-#### 프로젝트 경험
-- "네트워크 최적화 과정에서 팀원들과 함께 프로파일링 도구를 활용해 성능 병목점을 찾아내고 해결했습니다."
-- "물리 기반 캐릭터 움직임 구현 시 팀원들의 다양한 아이디어를 수용해 독특한 게임플레이 메카닉을 만들어냈습니다."
+### What About
+AWS 리빙랩 해커톤 대상 수상작 | 2024.08
+- AWS 클라우드 기반 서비스 개발
+- [프로젝트 상세보기](https://github.com/genwo123/WhatAbout)
+
+### UFO's (University Festival Order System)
+축제 주문 관리 시스템 | 2024.07
+- QR 코드 기반 주문 시스템 개발 
+- [프로젝트 상세보기](https://github.com/genwo123/UFOs)
+
+### 너나묵자 (Neonamukja)
+배달 커넥팅 앱 | 2024.06
+- 기숙사생 배달 파트너 매칭 서비스
+- [프로젝트 상세보기](https://github.com/genwo123/NNMJ_Project)
+
+### RPG Inspection
+게임 스펙 검사기 | 2024.05
+- 웹 기반 RPG 게임 스펙 분석 도구
+- [프로젝트 상세보기](https://github.com/RPG-Inspection/front)
 
 ## 🏆 Awards & Achievements
 - AWS 리빙랩 글로벌 해커톤 대상 (2024.08)
