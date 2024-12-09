@@ -59,10 +59,15 @@
 ---
 <h3 align="center">📋 Resume & Portfolio 📋</h3>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 350px); gap: 20px; justify-content: center;">
   <!-- 이력서 링크 -->
   <a href="https://github.com/genwo123/Resume">
     <img src="./image/이력서.png" alt="게임 개발자 이력서" width="350" />
+  </a>
+
+  <!-- 자소서 링크 -->
+  <a href="https://github.com/genwo123/CoverLetter">
+    <img src="./image/자소서.png" alt="게임 개발자 자소서" width="350" />
   </a>
 
   <!-- 게임 개발 포트폴리오 -->
