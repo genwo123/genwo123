@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile.jpg" alt="프로필 사진" width="150" height="150" style="border-radius: 50%;" />
+  <img src="./image/김건우.jpg" alt="프로필 사진" width="150" height="150" style="border-radius: 50%;" />
   
   # 김건우 (Gunwoo Kim)
   > "자유로운 도전과 화합을 통한 게임 개발"
@@ -16,14 +16,14 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="./assets/award1.jpg" alt="AWS 해커톤 대상" width="200" /></td>
-      <td><img src="./assets/award2.jpg" alt="혁신지원사업 은상" width="200" /></td>
-      <td><img src="./assets/presentation.jpg" alt="프로젝트 발표" width="200" /></td>
+      <td><img src="./image/리빙랩해커톤대상1.jpg" alt="AWS 해커톤 대상" width="200" /></td>
+      <td><img src="./image/김건우2.jpg" alt="스마일게이트 캠퍼스" width="200" /></td>
+      <td><img src="./image/김건우3.jpg" alt="팀 활동" width="200" /></td>
     </tr>
     <tr>
-      <td align="center">AWS 해커톤 대상</td>
-      <td align="center">혁신지원사업 은상</td>
-      <td align="center">프로젝트 발표</td>
+      <td align="center">AWS 해커톤 대상 수상</td>
+      <td align="center">스마일게이트 캠퍼스</td>
+      <td align="center">팀 프로젝트 활동</td>
     </tr>
   </table>
 </div>
@@ -67,7 +67,7 @@
 **쥐구멍 마을의 수수께끼를 풀어가는 어드벤처 게임**  
 *2024.09 ~ 2024.10*
 <div align="center">
-  <img src="./assets/misinjeon-preview.jpg" alt="미신전 프리뷰" width="600" />
+  <img src="./image/misinjeon-preview.jpg" alt="미신전 프리뷰" width="600" />
 </div>
 
 #### 프로젝트 개요
@@ -95,7 +95,7 @@
 **팀 기반 전략 액션 게임**  
 *2024.10 ~ 현재*
 <div align="center">
-  <img src="./assets/bridgerun-preview.jpg" alt="브릿지런 프리뷰" width="600" />
+  <img src="./image/bridgerun-preview.jpg" alt="브릿지런 프리뷰" width="600" />
 </div>
 
 #### 프로젝트 개요
