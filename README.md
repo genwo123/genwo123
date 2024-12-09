@@ -59,24 +59,24 @@
 ---
 <h3 align="center">📋 Resume & Portfolio 📋</h3>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 350px); gap: 20px; justify-content: center;">
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 300px); gap: 20px; justify-content: center;">
   <!-- 이력서 링크 -->
   <a href="https://github.com/genwo123/Resume">
-    <img src="./image/이력서.png" alt="게임 개발자 이력서" width="350" />
+    <img src="./image/이력서.png" alt="게임 개발자 이력서" width="300" height="200" style="object-fit: cover;" />
   </a>
 
   <!-- 자소서 링크 -->
   <a href="https://github.com/genwo123/CoverLetter">
-    <img src="./image/자기소개서.png" alt="게임 개발자 자소서" width="350" />
+    <img src="./image/자소서.png" alt="게임 개발자 자소서" width="300" height="200" style="object-fit: cover;" />
   </a>
 
   <!-- 게임 개발 포트폴리오 -->
   <a href="https://github.com/genwo123/Game-Dev-Portfolio">
-    <img src="./image/게임포트폴리오.png" alt="게임 개발 포트폴리오" width="350" />
+    <img src="./image/게임포트폴리오.png" alt="게임 개발 포트폴리오" width="300" height="200" style="object-fit: cover;" />
   </a>
 
   <!-- 게임 QA 포트폴리오 -->
   <a href="https://github.com/genwo123/Game-QA-Portfolio">
-    <img src="./image/게임QA포트폴리오.png" alt="게임 QA 포트폴리오" width="350" />
+    <img src="./image/게임QA포트폴리오.png" alt="게임 QA 포트폴리오" width="300" height="200" style="object-fit: cover;" />
   </a>
 </div>
