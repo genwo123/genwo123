@@ -1,4 +1,3 @@
-<!--타이틀 부분-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=우건의%20깃허브&fontSize=70&fontAlign=50&fontAlignY=40" alt="우건의 깃허브" />
 </div>
@@ -36,7 +35,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp
 </div>
 
-
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -63,18 +61,17 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <!-- 이력서 링크 -->
-  <a href="[이력서 레포지토리 링크]">
-    <img src="[이력서 이미지 링크]" alt="게임 개발자 이력서" style="width:30%;" />
+  <a href="https://github.com/genwo123/Resume">
+    <img src="src/image/이력서.png" alt="게임 개발자 이력서" style="width:30%;" />
   </a>
 
   <!-- 게임 개발 포트폴리오 -->
   <a href="https://github.com/genwo123/Game-Dev-Portfolio">
-    <img src="[게임 개발 포트폴리오 이미지]" alt="게임 개발 포트폴리오" style="width:30%;" />
+    <img src="src/image/게임포트폴리오.png" alt="게임 개발 포트폴리오" style="width:30%;" />
   </a>
 
   <!-- 게임 QA 포트폴리오 -->
   <a href="https://github.com/genwo123/Game-QA-Portfolio">
-    <img src="[게임 QA 포트폴리오 이미지]" alt="게임 QA 포트폴리오" style="width:30%;" />
+    <img src="src/image/게임QA포트폴리오.png" alt="게임 QA 포트폴리오" style="width:30%;" />
   </a>
 </div>
-
