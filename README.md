@@ -67,7 +67,7 @@
 
   <!-- 자소서 링크 -->
   <a href="https://github.com/genwo123/CoverLetter">
-    <img src="./image/자소서.png" alt="게임 개발자 자소서" width="350" />
+    <img src="./image/자기소개서.png" alt="게임 개발자 자소서" width="350" />
   </a>
 
   <!-- 게임 개발 포트폴리오 -->
