@@ -40,7 +40,6 @@
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />&nbsp
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">&nbsp
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">&nbsp
 </div>
