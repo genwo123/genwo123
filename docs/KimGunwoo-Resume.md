@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../image/김건우4.jpg" alt="프로필 사진" width="150" height="150" style="border-radius: 50%;" />
+  <img src="../image/김건우4.jpg" alt="프로필 사진" width="150"  style="border-radius: 50%;" />
   
   # 김건우 (Gunwoo Kim)
   > "자유로운 도전과 화합을 통한 게임 개발"
