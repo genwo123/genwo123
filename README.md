@@ -57,21 +57,17 @@
 
 ---
 <h3 align="center">📋 Resume & Portfolio 📋</h3>
-
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 400px); gap: 20px; justify-content: center;">
-  <a href="https://github.com/genwo123/Resume">
+  <a href="https://github.com/genwo123/docs/KimGunwoo-Resume.md">
     <img src="./image/이력서.png" alt="게임 개발자 이력서" style="display: block; width: 400px; height: 267px; border-radius: 10px;" />
   </a>
-
-  <a href="https://github.com/genwo123/CoverLetter">
+  <a href="https://github.com/genwo123/docs/KimGunwoo-CoverLetter.md">
     <img src="./image/자기소개서.png" alt="게임 개발자 자기소개서" style="display: block; width: 400px; height: 267px; border-radius: 10px;" />
   </a>
-
-  <a href="https://github.com/genwo123/Game-Dev-Portfolio">
+  <a href="https://github.com/genwo123/GameDev-Portfolio">
     <img src="./image/게임포트폴리오.png" alt="게임 개발 포트폴리오" style="display: block; width: 400px; height: 267px; border-radius: 10px;" />
   </a>
-
-  <a href="https://github.com/genwo123/Game-QA-Portfolio">
+  <a href="https://github.com/genwo123/GameQA-Portfolio">
     <img src="./image/게임QA포트폴리오.png" alt="게임 QA 포트폴리오" style="display: block; width: 400px; height: 267px; border-radius: 10px;" />
   </a>
 </div>
