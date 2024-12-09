@@ -19,7 +19,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="../image/리빙랩해커톤대상1.jpg" alt="해커톤 수상 장면" width="200" /></td>
+      <td><img src="../image/리빙랩해커톤대상.jpg" alt="해커톤 수상 장면" width="200" /></td>
       <td><img src="../image/리빙랩해커톤대상2.jpg" alt="해커톤 상장" width="200" /></td>
     </tr>
     <tr>
@@ -30,7 +30,7 @@
   <table>
     <tr>
       <td><img src="../image/김건우2.jpg" alt="스마일게이트 캠퍼스" width="200" /></td>
-      <td><img src="../image/김건우4.jpg" alt="퓨처랩 활동" width="200" /></td>
+      <td><img src="../image/김건우발표.jpg" alt="퓨처랩 활동" width="200" /></td>
     </tr>
     <tr>
       <td colspan="2" align="center">스마일게이트 퓨처랩 챌린지 참여</td>
@@ -39,8 +39,8 @@
 
   <table>
     <tr>
-      <td><img src="../image/김건우3.jpg" alt="동아리 활동1" width="200" /></td>
-      <td><img src="../image/김건우5.jpg" alt="동아리 활동2" width="200" /></td>
+      <td><img src="../image/동아리판넬.jpg" alt="동아리 활동1" width="200" /></td>
+      <td><img src="../image/동아리은상.jpg" alt="동아리 활동2" width="200" /></td>
     </tr>
     <tr>
       <td colspan="2" align="center">전공동아리 TripleS 동아리장 (3년)</td>
