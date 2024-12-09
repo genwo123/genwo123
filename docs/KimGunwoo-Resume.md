@@ -16,7 +16,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="../image/리빙랩해커톤대상1.jpg" alt="AWS 해커톤 대상" width="200" /></td>
+      <td><img src="../image/리빙랩해커톤대상.jpg" alt="AWS 해커톤 대상" width="200" /></td>
       <td><img src="../image/김건우2.jpg" alt="스마일게이트 캠퍼스" width="200" /></td>
       <td><img src="../image/김건우3.jpg" alt="팀 활동" width="200" /></td>
     </tr>
