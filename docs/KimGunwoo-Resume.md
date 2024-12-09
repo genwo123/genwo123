@@ -16,7 +16,6 @@
 
 
 ## 📸 Highlights
-
 <div align="center">
   <table>
     <tr>
@@ -26,7 +25,9 @@
     <tr>
       <td colspan="2" align="center">AWS 리빙랩 글로벌 해커톤 대상 수상</td>
     </tr>
+  </table>
 
+  <table>
     <tr>
       <td><img src="../image/김건우2.jpg" alt="스마일게이트 캠퍼스" width="200" /></td>
       <td><img src="../image/김건우4.jpg" alt="퓨처랩 활동" width="200" /></td>
@@ -34,7 +35,9 @@
     <tr>
       <td colspan="2" align="center">스마일게이트 퓨처랩 챌린지 참여</td>
     </tr>
+  </table>
 
+  <table>
     <tr>
       <td><img src="../image/김건우3.jpg" alt="동아리 활동1" width="200" /></td>
       <td><img src="../image/김건우5.jpg" alt="동아리 활동2" width="200" /></td>
