@@ -14,8 +14,8 @@
 - Blog: [Tistory](https://geonu-study0820.tistory.com/24)
 - GitHub: [genwo123](https://github.com/genwo123)
 
-아, 이해했습니다! 각 주제별로 2개의 이미지를 묶어서 보여주는 방식이군요. 다음과 같이 구성해보겠습니다:
-markdownCopy## 📸 Highlights
+
+## 📸 Highlights
 <div align="center">
   <table>
     <tr>
