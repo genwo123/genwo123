@@ -62,16 +62,16 @@
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <!-- 이력서 링크 -->
   <a href="https://github.com/genwo123/Resume">
-    <img src="./image/이력서.png" alt="게임 개발자 이력서" style="width:30%;" />
+    <img src="./image/이력서.png" alt="게임 개발자 이력서" width="350" />
   </a>
 
   <!-- 게임 개발 포트폴리오 -->
   <a href="https://github.com/genwo123/Game-Dev-Portfolio">
-    <img src="./image/게임포트폴리오.png" alt="게임 개발 포트폴리오" style="width:30%;" />
+    <img src="./image/게임포트폴리오.png" alt="게임 개발 포트폴리오" width="350" />
   </a>
 
   <!-- 게임 QA 포트폴리오 -->
   <a href="https://github.com/genwo123/Game-QA-Portfolio">
-    <img src="./image/게임QA포트폴리오.png" alt="게임 QA 포트폴리오" style="width:30%;" />
+    <img src="./image/게임QA포트폴리오.png" alt="게임 QA 포트폴리오" width="350" />
   </a>
 </div>
