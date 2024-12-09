@@ -1,19 +1,17 @@
 <div align="center">
   <img src="../image/김건우4.jpg" alt="프로필 사진" width="150" style="border-radius: 50%;" />
   
- # 김건우 (Gunwoo Kim)
-> "즐거움으로 시작하는 도전적인 여정"  
-> "좌절도 경험으로 만드는 개발자
+  # 김건우 (Gunwoo Kim)
+  > "즐거움으로 시작하는 도전적인 여정"  
+  > "좌절도 경험으로 만드는 개발자"
 
   #### 익숙함 속에서 즐거움을 이끌어내는 게임 개발자
-  
 </div>
 
 ## 📞 Contact
 - Email: rjsdn9008@gmail.com
 - Blog: [Tistory](https://geonu-study0820.tistory.com/24)
 - GitHub: [genwo123](https://github.com/genwo123)
-
 
 ## 📸 Highlights
 <div align="center">
@@ -43,32 +41,15 @@
       <td><img src="../image/동아리은상.jpg" alt="동아리 활동2" width="200" /></td>
     </tr>
     <tr>
-      <td colspan="2" align="center">전공동아리 TripleS 동아리장 (3년)</td>
+      <td colspan="2" align="center">전공동아리 TripleS 운영 및 수상 실적</td>
     </tr>
   </table>
 </div>
 
-
 ## 🎯 About Me
 끊임없는 도전을 즐기며 성장하는 게임 개발자입니다. 실패를 두려워하지 않고 좌절조차 값진 경험으로 만들어가며, 주어진 역할에서 최선을 다하는 것에서 즐거움을 찾습니다. Unreal Engine을 활용한 프로젝트들을 통해 익숙한 환경에서도 새로운 재미를 발견하는 것을 목표로 하고 있으며, 게임 플레이 로직과 인터랙션 시스템 구현에 관심이 있습니다.
 
-## 👥 Team Stories
-### 미신전 프로젝트
-> "건우는 팀의 기술적 성장을 이끌어냈습니다. 새로운 기능을 연구하고 공유하는 문화를 만들었죠."
-> 
-> *- 김OO, 프로그래머*
-
-> "문제 해결 과정에서 항상 팀원들의 의견을 경청하고 존중하는 모습이 인상적이었습니다."
-> 
-> *- 이OO, 디자이너*
-
-### AWS 해커톤
-> "기술적 난관에 부딪혔을 때도 긍정적인 태도로 팀을 이끌었습니다."
-> 
-> *- 박OO, 백엔드 개발자*
-
 ## 🛠 Technical Skills
-
 ### Game Development
 - **Unreal Engine**: UE4/5 상용 게임 개발 경험, C++ 기반 게임플레이 프레임워크 구현
   - 멀티플레이어 게임 개발 및 네트워크 최적화
@@ -91,10 +72,9 @@
   - 코드 리뷰 문화 주도 및 팀 생산성 향상
 
 ## 🎮 Game Projects
-
 ### 미신전 (未信殿)
 <div align="center">
-  <img src="../image/misinjeon-preview.jpg" alt="미신전 프리뷰" width="600" />
+  <img src="../image/미신전.png" alt="미신전 프리뷰" width="600" />
 </div>
 
 어드벤처 퍼즐 게임 | 2024.09 ~ 2024.10
@@ -104,7 +84,7 @@
 
 ### 브릿지런 (BridgeRun)
 <div align="center">
-  <img src="../image/bridgerun-preview.jpg" alt="브릿지런 프리뷰" width="600" />
+  <img src="../image/브릿지런.png" alt="브릿지런 프리뷰" width="600" />
 </div>
 
 전략 액션 게임 | 2024.10 ~ 현재
@@ -113,7 +93,6 @@
 - [프로젝트 상세보기](https://github.com/genwo123/BridgeRun)
 
 ## 💻 Collaboration Projects
-
 ### What About
 AWS 리빙랩 해커톤 대상 수상작 | 2024.08
 - AWS 클라우드 기반 서비스 개발
@@ -134,6 +113,21 @@ AWS 리빙랩 해커톤 대상 수상작 | 2024.08
 - 웹 기반 RPG 게임 스펙 분석 도구
 - [프로젝트 상세보기](https://github.com/RPG-Inspection/front)
 
+## 👥 Team Stories
+### 미신전 프로젝트
+> "건우는 팀의 기술적 성장을 이끌어냈습니다. 새로운 기능을 연구하고 공유하는 문화를 만들었죠."
+> 
+> *- 김OO, 프로그래머*
+
+> "문제 해결 과정에서 항상 팀원들의 의견을 경청하고 존중하는 모습이 인상적이었습니다."
+> 
+> *- 이OO, 디자이너*
+
+### AWS 해커톤
+> "기술적 난관에 부딪혔을 때도 긍정적인 태도로 팀을 이끌었습니다."
+> 
+> *- 박OO, 백엔드 개발자*
+
 ## 🏆 Awards & Achievements
 - AWS 리빙랩 글로벌 해커톤 대상 (2024.08)
   - [프로젝트 상세 내용]
@@ -147,7 +141,6 @@ AWS 리빙랩 해커톤 대상 수상작 | 2024.08
 - GPA: 3.45/4.5
 
 ## 📚 Research & Studies
-
 ### 스마일게이트 퓨처랩 챌린지 (2024.08)
 - 게임 개발 관련 개인 연구 프로젝트 진행
   - Unreal Engine C++ 게임 개발 심화 학습 및 실습
@@ -159,6 +152,13 @@ AWS 리빙랩 해커톤 대상 수상작 | 2024.08
 - 프로그래머스 코딩 테스트 스터디 운영 (1~2LV)
 
 ## 🌱 Growth & Activities
+### 전공동아리 TripleS 리더십
+- 3년 연속 동아리장 역임 (연간 50명 이상 회원 관리)
+- 주요 활동 운영:
+  - 코딩테스트 스터디 그룹 조직 및 관리
+  - 회원 제안 프로젝트 총괄 및 팀 매칭
+  - 프로젝트 기획부터 실행까지 전반적인 관리 지원
+
 ### 플린디 1기 활동
 - 게임 분석 & 리뷰 프로그램 참여
 - 기존 게임의 리브랜딩 프로젝트 수행
@@ -167,7 +167,7 @@ AWS 리빙랩 해커톤 대상 수상작 | 2024.08
 ### 개인 성장
 - 2021-현재: 분기별 정기 헌혈 참여
 - 게임 개발 관련 서적 학습 및 리뷰 기록
-  
+
 ## 🎖 Military Service
 - 육군 병장 만기 전역 (21사단 "백두산부대" 통신병)
 - 2019.10.28 ~ 2021.05.14
