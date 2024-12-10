@@ -147,7 +147,7 @@ AWS 리빙랩 해커톤 대상 수상작 | 2024.08
 
 ## 📚 Research & Studies
 ### 연구 및 도전
-- [코딩 교육과 게임 제작의 연계성](https://github.com/genwo123/genwo123/blob/master/docs/pdf/코딩교육과게임제작의_연계성_김건우.pdf) - GSKO 2023 논문 공모전
+- [코딩 교육과 게임 제작의 연계성](https://github.com/genwo123/genwo123/blob/master/docs/pdf/코딩교육과게임제작의연계성_김건우.pdf) - GSKO 2023 논문 공모전
 
 
 ---
