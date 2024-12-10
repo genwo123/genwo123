@@ -9,7 +9,7 @@
     "즐거움으로 시작하는 도전적인 여정"<br>
     "좌절도 경험으로 만드는 개발자"
   </blockquote>
-  <h3 style="margin: 20px 0;">컨텐츠 클라이언트 프로그래머</h3>
+  <h3 style="margin: 20px 0;">게임 프로그래머</h3>
   <p style="font-size: 1.1em; margin: 15px 0;">24세</p>
   <div style="margin: 20px 0;">
     <p style="font-size: 1.1em; line-height: 1.8;">
