@@ -107,7 +107,7 @@ AWS 리빙랩 해커톤 대상 수상작 | 2024.08
 배달 커넥팅 앱 | 2022.11
 - 기숙사생 배달 파트너 매칭 서비스
 
-### [RPG Inspection](https://github.com/RPG-Inspection/front)
+### [군장존]([https://github.com/genwo123/gunjangzone])
 게임 스펙 검사기 | 2024.05
 - 웹 기반 RPG 게임 스펙 분석 도구
 
