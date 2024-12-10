@@ -1,53 +1,55 @@
-<div align="center">
-  <img src="../image/김건우4.jpg" alt="프로필 사진" width="150" style="border-radius: 50%;" />
-  
-  # 김건우 (Gunwoo Kim)
-  > "즐거움으로 시작하는 도전적인 여정"  
-  > "좌절도 경험으로 만드는 개발자"
-
-  #### 익숙함 속에서 즐거움을 이끌어내는 게임 개발자
-</div>
-
-## 📞 Contact
-- Email: rjsdn9008@gmail.com
-- Blog: [Notion](https://www.notion.so/woogun/)
-- GitHub: [genwo123](https://github.com/genwo123)
-
-## 📸 Highlights
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="../image/리빙랩해커톤대상.jpg" alt="해커톤 수상 장면" width="200" /></td>
-      <td><img src="../image/리빙랩해커톤대상2.jpg" alt="해커톤 상장" width="200" /></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">AWS 리빙랩 글로벌 해커톤 대상 수상</td>
-    </tr>
-  </table>
-
-  <table>
-    <tr>
-      <td><img src="../image/김건우2.jpg" alt="스마일게이트 캠퍼스" width="200" /></td>
-      <td><img src="../image/김건우발표.jpg" alt="퓨처랩 활동" width="200" /></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">스마일게이트 퓨처랩 챌린지 참여</td>
-    </tr>
-  </table>
-
-  <table>
-    <tr>
-      <td><img src="../image/동아리판넬.jpg" alt="동아리 활동1" width="200" /></td>
-      <td><img src="../image/동아리은상.jpg" alt="동아리 활동2" width="200" /></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">전공동아리 TripleS 운영 및 수상 실적</td>
-    </tr>
-  </table>
-</div>
-
-## 🎯 About Me
-끊임없는 도전을 즐기며 성장하는 게임 개발자입니다. 실패를 두려워하지 않고 좌절조차 값진 경험으로 만들어가며, 주어진 역할에서 최선을 다하는 것에서 즐거움을 찾습니다. Unreal Engine을 활용한 프로젝트들을 통해 익숙한 환경에서도 새로운 재미를 발견하는 것을 목표로 하고 있으며, 게임 플레이 로직과 인터랙션 시스템 구현에 관심이 있습니다.
+<table width="100%" style="border: 1px solid #ddd; padding: 20px; margin-bottom: 30px;">
+<tr>
+<td width="30%">
+  <img src="../image/김건우4.jpg" alt="프로필 사진" width="200" style="border-radius: 10%;" />
+</td>
+<td width="70%">
+  <h1>김건우 (Gunwoo Kim)</h1>
+  <blockquote>
+    "즐거움으로 시작하는 도전적인 여정"<br>
+    "좌절도 경험으로 만드는 개발자"
+  </blockquote>
+  <h4>컨텐츠 클라이언트 프로그래머</h4>
+  <p>24세</p>
+  <p>Email: rjsdn9008@gmail.com | Blog: <a href="https://www.notion.so/woogun/">Notion</a> | GitHub: <a href="https://github.com/genwo123">genwo123</a></p>
+  <p>"게임 플레이 로직과 인터랙션 시스템에 특화된 개발자"</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+  <h3>🎓 Education</h3>
+  - 연암공과대학교 스마트소프트웨어학과 (2019.03 ~ 2024.02)
+    - GPA: 3.45/4.5
+  - 연암공과대학교 스마트소프트웨어학과 심화과정 (2024.03 ~ 2025.02)
+    - 학사학위 과정 이수중
+</td>
+</tr>
+<tr>
+<td colspan="2">
+  <h3>📋 Certification</h3>
+  - 정보처리기사 | 한국산업인력공단
+    - SW 개발 및 유지보수를 위한 전문가 자격
+  - SQLD | 한국데이터산업진흥원
+    - 데이터베이스 설계 및 SQL 개발 전문가 자격
+</td>
+</tr>
+<tr>
+<td colspan="2">
+  <h3>✨ Achievements</h3>
+  - AWS 리빙랩 글로벌 해커톤 대상 (2024.08)
+  - 연암공과대학교 혁신지원사업 은상 (2024.01)
+  - 동명대학교 지식재산교육선도대학사업단 우수상 (2023.10)
+  - 경남소프트웨어경진대회 입선 (2023.11)
+</td>
+</tr>
+<tr>
+<td colspan="2">
+  <h3>🎖️ Military</h3>
+  - 육군 병장 만기 전역 (21사단 "백두산부대" 통신병)
+  - 2019.10.28 ~ 2021.05.14
+</td>
+</tr>
+</table>
 
 ## 🛠 Technical Skills
 ### Game Development
@@ -113,6 +115,7 @@ AWS 리빙랩 해커톤 대상 수상작 | 2024.08
 게임 스펙 검사기 | 2024.05
 - 웹 기반 RPG 게임 스펙 분석 도구
 
+---
 
 ## 👥 Team Stories
 ### 미신전 프로젝트
@@ -129,78 +132,29 @@ AWS 리빙랩 해커톤 대상 수상작 | 2024.08
 > 
 > *- 박OO, 백엔드 개발자*
 
-## 🏆 Awards & Achievements
-- AWS 리빙랩 글로벌 해커톤 대상 (2024.08)
-- 연암공과대학교 혁신지원사업 은상 (2024.01)
-- 동명대학교 지식재산교육선도대학사업단 우수상 (2023.10)
-- 경남소프트웨어경진대회 입선 (2023.11)
-- 동명대학교 지식재산교육선도대학사업단 우수상 (2022.11)
-
-## 📜 Certifications
-### Core
-* 정보처리기사 | 한국산업인력공단 |
-   * SW 개발 및 유지보수를 위한 전문가 자격
-
-### Database
-* SQLD (SQL Developer) | 한국데이터산업진흥원 |
-   * 데이터베이스 설계 및 SQL 개발 전문가 자격
-
-
-## 🎓 Education
-**연암공과대학교** (2019.03 ~ 2024.02)
-- 스마트소프트웨어학과
-- GPA: 3.45/4.5
-
-**연암공과대학교** (2024.03 ~ 2025.02)
-- 스마트소프트웨어학과(심화과정)
-- 학사학위 과정 이수중
-
-
 ## 📚 Research & Studies
-### [스마일게이트 퓨처랩 챌린지](https://github.com/genwo123/UE_CPP_LectureSummary) (2024.08)
-- 게임 개발 관련 개인 연구 프로젝트 진행
-  - Unreal Engine C++ 게임 개발 심화 학습 및 실습
+- **스마일게이트 퓨처랩 챌린지**
+  - Unreal Engine C++ 게임 개발 심화 학습
   - 학습 내용 정리 및 회고 발표 진행
 
-## 📚 Research & Studies
-### 연구 및 도전
-- [코딩 교육과 게임 제작의 연계성](https://github.com/genwo123/genwo123/blob/master/docs/pdf/코딩교육과게임제작의연계성_김건우.pdf) - GSKO 2023 논문 공모전
+- **연구 및 도전**
+  - GSKO 2023 논문 공모전 참여
+  - 코딩 교육과 게임 제작의 연계성 연구
 
-
----
-
-### 코딩 테스트 학습 자료
-- [코딩테스트 정리 (노션 링크)](https://www.notion.so/woogun/e159e26900194cc38e2cbc32ebc79b26)
-  - 알고리즘 문제 풀이 및 복습을 위한 정리
-  - 대표적인 문제 풀이 및 해결 전략 정리
-  - 전공 동아리 활동 중, 후배들에게 알고리즘 문제 풀이를 지도하며 작성한 자료 기반
----
-
-### 독서 및 리뷰 기록
-- [📚 읽은 책들 정리 (노션 링크)](https://www.notion.so/woogun/3101e2b373e140ec9b1d77bcd8e15cb7?v=7b998d1df28742cc9d72e430ca9e5830)
-  - 기술 서적 및 자기계발 도서에 대한 리뷰 및 요약
-  - 주요 개념 및 인사이트 정리
-  - 정리 내용을 기반으로 학습 적용 사례 분석
-
-
+- **학습 자료**
+  - 코딩테스트 정리 및 알고리즘 스터디
+  - 게임 개발 서적 학습 및 리뷰
 
 ## 🌱 Growth & Activities
-### 전공동아리 TripleS 리더십
-- 3년 연속 동아리장 역임 (연간 50명 이상 회원 관리)
-- 주요 활동 운영:
-  - 코딩테스트 스터디 그룹 조직 및 관리
-  - 회원 제안 프로젝트 총괄 및 팀 매칭
-  - 프로젝트 기획부터 실행까지 전반적인 관리 지원
+- **전공동아리 TripleS 리더십**
+  - 3년 연속 동아리장 역임 
+  - 코딩테스트 스터디 그룹 운영
+  - 프로젝트 기획 및 관리 총괄
 
-### 플린디 1기 활동
-- 게임 분석 & 리뷰 프로그램 참여
-- 기존 게임의 리브랜딩 프로젝트 수행
-- 게임 디자인 관점에서의 분석 역량 강화
+- **플린디 1기 활동**
+  - 게임 분석 & 리뷰 프로그램 참여
+  - 게임 리브랜딩 프로젝트 수행
 
-### 개인 성장
-- 2021-현재: 분기별 정기 헌혈 참여
-- 게임 개발 관련 서적 학습 및 리뷰 기록
-
-## 🎖 Military Service
-- 육군 병장 만기 전역 (21사단 "백두산부대" 통신병)
-- 2019.10.28 ~ 2021.05.14
+- **개인 성장**
+  - 2021-현재: 분기별 정기 헌혈 참여
+  - 지속적인 자기 계발 활동
