@@ -1,52 +1,95 @@
 <table width="100%" style="border: 1px solid #ddd; padding: 20px; margin-bottom: 30px;">
 <tr>
-<td width="30%">
-  <img src="../image/김건우4.jpg" alt="프로필 사진" width="200" style="border-radius: 10%;" />
+<td width="25%">
+  <img src="../image/김건우4.jpg" alt="프로필 사진" width="100%" style="border-radius: 10%; max-width: 300px;" />
 </td>
-<td width="70%">
-  <h1>김건우 (Gunwoo Kim)</h1>
-  <blockquote>
+<td width="75%" style="padding: 0 30px;">
+  <h1 style="font-size: 2.5em; margin-bottom: 20px;">김건우 (Gunwoo Kim)</h1>
+  <blockquote style="font-size: 1.2em; margin: 20px 0; padding: 10px 20px; border-left: 4px solid #ddd;">
     "즐거움으로 시작하는 도전적인 여정"<br>
     "좌절도 경험으로 만드는 개발자"
   </blockquote>
-  <h4>컨텐츠 클라이언트 프로그래머</h4>
-  <p>24세</p>
-  <p>Email: rjsdn9008@gmail.com | Blog: <a href="https://www.notion.so/woogun/">Notion</a> | GitHub: <a href="https://github.com/genwo123">genwo123</a></p>
-  <p>"게임 플레이 로직과 인터랙션 시스템에 특화된 개발자"</p>
+  <h3 style="margin: 20px 0;">컨텐츠 클라이언트 프로그래머</h3>
+  <p style="font-size: 1.1em; margin: 15px 0;">24세</p>
+  <div style="margin: 20px 0;">
+    <p style="font-size: 1.1em; line-height: 1.8;">
+      Email: rjsdn9008@gmail.com<br>
+      Blog: <a href="https://www.notion.so/woogun/" style="color: #0066cc;">Notion</a><br>
+      GitHub: <a href="https://github.com/genwo123" style="color: #0066cc;">genwo123</a>
+    </p>
+  </div>
+  <p style="font-size: 1.1em; font-style: italic; margin-top: 20px;">
+    "게임 플레이 로직과 인터랙션 시스템에 특화된 개발자"
+  </p>
 </td>
 </tr>
+
 <tr>
-<td colspan="2">
+<td colspan="2" style="padding: 20px 0;">
   <h3>🎓 Education</h3>
-  - 연암공과대학교 스마트소프트웨어학과 (2019.03 ~ 2024.02)
-    - GPA: 3.45/4.5
-  - 연암공과대학교 스마트소프트웨어학과 심화과정 (2024.03 ~ 2025.02)
-    - 학사학위 과정 이수중
+  <div style="padding: 20px; background-color: #f8f9fa;">
+    <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+      <li style="margin-bottom: 25px;">
+        <h4 style="margin: 0 0 10px 0;">연암공과대학교 스마트소프트웨어학과</h4>
+        <p style="margin: 5px 0;">2019.03 ~ 2024.02</p>
+        <p style="margin: 5px 0; color: #666;">GPA: 3.45/4.5</p>
+      </li>
+      <li>
+        <h4 style="margin: 0 0 10px 0;">연암공과대학교 스마트소프트웨어학과 심화과정</h4>
+        <p style="margin: 5px 0;">2024.03 ~ 2025.02</p>
+        <p style="margin: 5px 0; color: #666;">학사학위 과정 이수중</p>
+      </li>
+    </ul>
+  </div>
 </td>
 </tr>
+
 <tr>
-<td colspan="2">
+<td colspan="2" style="padding: 20px 0;">
   <h3>📋 Certification</h3>
-  - 정보처리기사 | 한국산업인력공단
-    - SW 개발 및 유지보수를 위한 전문가 자격
-  - SQLD | 한국데이터산업진흥원
-    - 데이터베이스 설계 및 SQL 개발 전문가 자격
+  <div style="padding: 20px; background-color: #f8f9fa;">
+    <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+      <li style="margin-bottom: 25px;">
+        <h4 style="margin: 0 0 10px 0;">정보처리기사 | 한국산업인력공단</h4>
+        <p style="margin: 5px 0; color: #666;">SW 개발 및 유지보수를 위한 전문가 자격</p>
+      </li>
+      <li>
+        <h4 style="margin: 0 0 10px 0;">SQLD | 한국데이터산업진흥원</h4>
+        <p style="margin: 5px 0; color: #666;">데이터베이스 설계 및 SQL 개발 전문가 자격</p>
+      </li>
+    </ul>
+  </div>
 </td>
 </tr>
+
 <tr>
-<td colspan="2">
+<td colspan="2" style="padding: 20px 0;">
   <h3>✨ Achievements</h3>
-  - AWS 리빙랩 글로벌 해커톤 대상 (2024.08)
-  - 연암공과대학교 혁신지원사업 은상 (2024.01)
-  - 동명대학교 지식재산교육선도대학사업단 우수상 (2023.10)
-  - 경남소프트웨어경진대회 입선 (2023.11)
+  <div style="padding: 20px; background-color: #f8f9fa;">
+    <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+      <li style="margin-bottom: 15px;"> AWS 리빙랩 글로벌 해커톤 대상 (2024.08)</li>
+      <li style="margin-bottom: 15px;"> 연암공과대학교 혁신지원사업 은상 (2024.01)</li>
+      <li style="margin-bottom: 15px;"> 동명대학교 지식재산교육선도대학사업단 우수상 (2023.10)</li>
+      <li> 경남소프트웨어경진대회 입선 (2023.11)</li>
+    </ul>
+  </div>
 </td>
 </tr>
+
 <tr>
-<td colspan="2">
-  <h3>🎖️ Military</h3>
-  - 육군 병장 만기 전역 (21사단 "백두산부대" 통신병)
-  - 2019.10.28 ~ 2021.05.14
+<td colspan="2" style="padding: 20px 0;">
+  <h3>🪖 Military</h3>
+  <div style="padding: 20px; background-color: #f8f9fa;">
+    <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+      <li style="margin-bottom: 15px;">
+        <h4 style="margin: 0 0 10px 0;">육군 병장 만기 전역</h4>
+        <p style="margin: 5px 0;">21사단 "백두산부대" 통신병</p>
+      </li>
+      <li>
+        <p style="margin: 5px 0;">복무기간: 2019.10.28 ~ 2021.05.14</p>
+      </li>
+    </ul>
+  </div>
 </td>
 </tr>
 </table>
@@ -118,19 +161,66 @@ AWS 리빙랩 해커톤 대상 수상작 | 2024.08
 ---
 
 ## 👥 Team Stories
+
+### 팅커벨 프로젝트 (AWS 리빙랩 해커톤)
+> "프론트 대표로 소통하고, 중간중간 작업 결과를 보여주면서 의도된 바가 맞는지 소통해줘서 의도 방향으로 잘 이끌었습니다."
+>
+> *- 안준식, PM*
+
+> "API 연결에 어려움이 있었지만, 경험을 바탕으로 적절한 가이드를 제공해 주었습니다."
+>
+> *- 김예원, 백엔드 개발자*
+
+> "AWS 스킬이 약간 부족했는데 아는대로 도와주고 몇가지 로직을 람다식을 단순화 해보자는 아이디어 덕에 편하게 만들었습니다! 적응력이 빨라서 제일 편했습니다."
+>
+> *- 김진욱, 백엔드 개발자*
+
+> "PPT 제작과 체크리스트를 중간 검토해주신 덕에 오류 없이 끝낼 수 있었습니다."
+>
+> *- 박시우 & 신서연, 자료조사 팀*
+
 ### 미신전 프로젝트
-> "건우는 팀의 기술적 성장을 이끌어냈습니다. 새로운 기능을 연구하고 공유하는 문화를 만들었죠."
-> 
-> *- 김OO, 프로그래머*
+> "건우님은 예의바르고 친절하고 유쾌한 사람! 추진력도 좋고 책임감도 있는 사람, 일을 할 때에도 상대방이 편하게끔 해주시는 분이라고 느꼈습니다."
+>
+> *- 정한솔, 사운드 디자이너*
 
-> "문제 해결 과정에서 항상 팀원들의 의견을 경청하고 존중하는 모습이 인상적이었습니다."
-> 
-> *- 이OO, 디자이너*
+> "비개발자의 요구에 적절한 해결방법 제시와 일정 조율을 잘하고, 비개발자와의 소통에서 이해하기 쉽게 설명해주어서 프로젝트를 잘 마무리할 수 있었습니다."
+>
+> *- 손원일, 언리얼 프로그래머*
 
-### AWS 해커톤
-> "기술적 난관에 부딪혔을 때도 긍정적인 태도로 팀을 이끌었습니다."
-> 
-> *- 박OO, 백엔드 개발자*
+> "간단한 스토리를 듣고 스토리보드를 바로 만들어서 전달해주셔서 작업하기가 편했고, 요구사항이 있을 때마다 왜 필요한지 간략하게 설명해주셔서 의도를 이해하고 작업하기 수월했습니다."
+>
+> *- 조윤정, 애니메이터*
+
+> "건우님과 틈날 때마다 디스코드로 작업하던 때가 엊그제 일 같네요. 제 작업물 많이 칭찬해주셔서 무사히 끝마칠 수 있었습니다. 외향적인 성격이 팀의 분위기를 살려준 것 같아요!"
+>
+> *- 김다린, UI/UX 디자이너*
+
+### UFO's 프로젝트
+> "문제 해결을 못하는 도중 'A와 B를 알아와서 비교해봐라, 이럴 땐 C도 방법이다' 등 구체적인 지시와 방식을 제시해주셔서 금방 해결할 수 있었습니다. 팀이 문제에 부딪혔을 때 막힘없이 활동을 이어갈 수 있게 해주는 좋은 팀장입니다."
+>
+> *- 최일한, 백엔드 개발자*
+
+> "UFO 프로젝트 때는 프론트엔드 개발자로 참여해서 PM이 얼마나 힘든 자리인지 몰랐는데, 학교 미니프로젝트에서 PM으로 프로젝트를 진행해보니 엄청 힘든 자리인 걸 알게 되었습니다. 꽃이 지고서야 봄인 줄 알았습니다. 어떻게 버텨오신 겁니까, 건우God..."
+>
+> *- 옥준서, 프론트엔드 개발자*
+
+> "프로젝트 초기에 인원 분배와 역할 분담을 확실히 해주셔서 빠르고 큰 문제 없이 진행되었습니다. 프로젝트 설계와 계획을 잘 세워주셔서 집중해서 할 수 있었습니다."
+>
+> *- 모정환, 프론트엔드 개발자*
+
+> "팀원들과의 의견 조율도 잘해주시고 소통하기 편했습니다. 다른 프로젝트에선 다음 회의까지 결정이 흐지부지 미뤄질 때도 있었는데, 덕분에 개발에 집중할 수 있어서 좋았습니다!"
+>
+> *- 김호진, 프론트엔드 개발자*
+
+### 너나묵자 프로젝트
+> "프로젝트 당시에 막히는 부분마다 크리에이티브한 그의 생각이 도움이 많이 되었습니다."
+>
+> *- 이종혁, 프론트엔드 개발자*
+
+> "프로젝트에 대한 열정이 뛰어나며 팀원들과의 커뮤니케이션을 중요시하는 부분이 좋았습니다."
+>
+> *- 유원준, 백엔드 개발자*
 
 ## 📚 Research & Studies
 - **스마일게이트 퓨처랩 챌린지**
