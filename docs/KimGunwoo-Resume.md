@@ -95,13 +95,15 @@
 - 네트워크 최적화 및 물리 기반 캐릭터 시스템 구현
 
 ## 💻 Collaboration Projects
-### [What About](https://github.com/genwo123/WhatAbout)
+### [팅커벨](https://github.com/genwo123/WhatAbout)
 AWS 리빙랩 해커톤 대상 수상작 | 2024.08
+- 청년층 전세사기 예방과 안전한 주거 계약을 지원하는 AI 기반 통합 솔루션
 - AWS 클라우드 기반 서비스 개발
 
 ### [UFO's (University Festival Order System)](https://github.com/genwo123/UFOs)
 축제 주문 관리 시스템 | 2024.05
-- QR 코드 기반 주문 시스템 개발 
+- QR 코드 기반
+- 대학 축제 주문 & 관리 시스템 개발 
 
 ### [너나묵자 (Neonamukja)](https://github.com/genwo123/NNMJ_Project)
 배달 커넥팅 앱 | 2022.11
