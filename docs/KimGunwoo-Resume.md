@@ -10,7 +10,7 @@
 
 ## 📞 Contact
 - Email: rjsdn9008@gmail.com
-- Blog: [Tistory](https://geonu-study0820.tistory.com/24)
+- Blog: [Notion](https://www.notion.so/woogun/)
 - GitHub: [genwo123](https://github.com/genwo123)
 
 ## 📸 Highlights
