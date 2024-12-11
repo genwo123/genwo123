@@ -78,7 +78,7 @@
 
 <tr>
 <td colspan="2" style="padding: 20px 0;">
-  <h3>🪖 Military</h3>
+  <h3>💂 Military</h3>
   <div style="padding: 20px; background-color: #f8f9fa;">
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
       <li style="margin-bottom: 15px;">
@@ -122,7 +122,7 @@
       </td>
       <td width="33%" align="center" style="padding: 15px; border-top: 1px solid #eee;">
         <strong>전공동아리 TripleS</strong>
-        <br>3년 연속 동아리장 및 혁신상 수상
+        <br>3년 연속 동아리장 및 2년연속 동아리 공모전 은상 수상
       </td>
     </tr>
   </table>
