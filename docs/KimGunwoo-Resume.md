@@ -49,10 +49,6 @@
   <h3>📋 Certification</h3>
   <div style="padding: 20px; background-color: #f8f9fa;">
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-      <li style="margin-bottom: 25px;">
-        <h4 style="margin: 0 0 10px 0;">정보처리기사 | 한국산업인력공단</h4>
-        <p style="margin: 5px 0; color: #666;">SW 개발 및 유지보수를 위한 전문가 자격</p>
-      </li>
       <li>
         <h4 style="margin: 0 0 10px 0;">SQLD | 한국데이터산업진흥원</h4>
         <p style="margin: 5px 0; color: #666;">데이터베이스 설계 및 SQL 개발 전문가 자격</p>
