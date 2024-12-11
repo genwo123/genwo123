@@ -177,7 +177,7 @@
 <h3><a href="https://github.com/genwo123/BridgeRun">브릿지런 (BridgeRun)</a></h3>
 전략 액션 게임 | 2024.10 ~ 현재
 
-- Unreal Engine 5 기반 멀티플레이어 게임 개발
+- Unreal Engine 4 기반 멀티플레이어 게임 개발
 - 네트워크 최적화 및 물리 기반 캐릭터 시스템 구현
 </td>
 </tr>
