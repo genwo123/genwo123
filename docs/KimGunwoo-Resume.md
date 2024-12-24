@@ -18,9 +18,6 @@
       GitHub: <a href="https://github.com/genwo123" style="color: #0066cc;">genwo123</a>
     </p>
   </div>
-  <p style="font-size: 1.1em; font-style: italic; margin-top: 20px;">
-    "게임 플레이 로직과 인터랙션 시스템에 특화된 개발자"
-  </p>
 </td>
 </tr>
 
