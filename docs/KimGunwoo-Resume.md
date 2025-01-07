@@ -10,7 +10,7 @@
     "좌절도 경험으로 만드는 개발자"
   </blockquote>
   <h3 style="margin: 20px 0;">게임 프로그래머</h3>
-  <p style="font-size: 1.1em; margin: 15px 0;">24세</p>
+  <p style="font-size: 1.1em; margin: 15px 0;">2000년생 | 26세 </p>
   <div style="margin: 20px 0;">
     <p style="font-size: 1.1em; line-height: 1.8;">
       Email: rjsdn9008@gmail.com<br>
