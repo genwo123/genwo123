@@ -159,7 +159,7 @@
 <h3><a href="https://github.com/genwo123/Y2S3_MISINJEON_CPP">미신전 (未信殿)</a></h3>
 어드벤처 퍼즐 게임 | 2024.09 ~ 2024.10
 
-- Unreal Engine 5를 활용한 2인 개발 프로젝트
+- Unreal Engine 5를 활용한 7인 개발 프로젝트
 - C++/Blueprint 하이브리드 방식으로 코어 시스템 구현
 </td>
 </tr>
