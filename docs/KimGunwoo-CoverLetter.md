@@ -2,7 +2,7 @@
 
 <div align="center">
 
-📋 **[이력서 보기](./KimGunwoo-Resume.md)** | 🎮 **[포트폴리오 보기](./README.md)**
+📋 **[이력서 보기](./KimGunwoo-Resume.md)** | 🏠 **[메인 페이지](./README.md)** | 🎮 **[포트폴리오 보기](https://github.com/genwo123/Game-Dev-Portfolio)**
 
 </div>
 
