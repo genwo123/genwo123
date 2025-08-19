@@ -1,7 +1,7 @@
 <table width="100%" style="border: 1px solid #ddd; padding: 20px; margin-bottom: 30px;">
 <tr>
 <td width="25%">
-  <img src="../image/김건우4.jpg" alt="프로필 사진" width="100%" style="border-radius: 10%; max-width: 300px;" />
+  <img src="../image/김건우.jpg" alt="프로필 사진" width="100%" style="border-radius: 10%; max-width: 300px;" />
 </td>
 <td width="75%" style="padding: 0 30px;">
   <h1 style="font-size: 2.5em; margin-bottom: 20px;">김건우 (Gunwoo Kim)</h1>
