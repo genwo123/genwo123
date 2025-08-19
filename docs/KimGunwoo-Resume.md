@@ -29,7 +29,7 @@
       <li style="margin-bottom: 25px;">
         <h4 style="margin: 0 0 10px 0;">연암공과대학교 스마트소프트웨어학과</h4>
         <p style="margin: 5px 0;">2019.03 ~ 2024.02</p>
-        <p style="margin: 5px 0; color: #666;">GPA: 3.45/4.5</p>
+        <p style="margin: 5px 0; color: #666;">GPA: 3.8/4.5</p>
       </li>
       <li>
         <h4 style="margin: 0 0 10px 0;">연암공과대학교 스마트소프트웨어학과 심화과정</h4>
