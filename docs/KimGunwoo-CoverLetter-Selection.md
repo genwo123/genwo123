@@ -4,77 +4,38 @@
 
 <br><br>
 
-<h1 align="center">📝 분야별 자기소개서</h1>
+<div align="center">
+  <h1>📝 자기소개서</h1>
+</div>
 
 <br>
 
-<div align="center">
-  <p style="font-size: 1.2em; color: #666;">
-    지원하시는 분야에 맞는 자기소개서를 선택해주세요
-  </p>
-</div>
-
-<br><br>
-
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 400px); gap: 40px; justify-content: center;">
-  
-  <!-- 게임 개발 자소서 -->
-  <a href="./KimGunwoo-CoverLetter.md" style="text-decoration: none;">
-    <div style="border: 3px solid #4CAF50; border-radius: 15px; padding: 30px; background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%); transition: transform 0.3s;">
-      <div align="center">
-        <img src="https://img.icons8.com/fluency/96/controller.png" alt="게임 개발" width="80" style="margin-bottom: 20px;"/>
-        <h2 style="margin: 20px 0; color: #2e7d32;">게임 개발</h2>
-        <p style="font-size: 1.1em; line-height: 1.6; color: #424242;">
-          언리얼 엔진 게임 클라이언트 개발<br>
-          UI/UX 시스템 설계<br>
-          멀티플레이어 네트워크
-        </p>
+<table align="center" width="90%">
+  <tr>
+    <td width="50%" align="center" style="padding: 40px;">
+      <a href="./KimGunwoo-CoverLetter.md" style="text-decoration: none;">
+        <h2>게임개발 자기소개서</h2>
         <br>
-        <button style="
-          background: #4CAF50;
-          color: white;
-          border: none;
-          padding: 12px 30px;
-          border-radius: 25px;
-          font-size: 1.1em;
-          cursor: pointer;
-          font-weight: bold;
-        ">
-          게임 자소서 보기 →
-        </button>
-      </div>
-    </div>
-  </a>
-
-  <!-- 임베디드/자동차 자소서 -->
-  <a href="./KimGunwoo-CoverLetter-Embedded.md" style="text-decoration: none;">
-    <div style="border: 3px solid #2196F3; border-radius: 15px; padding: 30px; background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%); transition: transform 0.3s;">
-      <div align="center">
-        <img src="https://img.icons8.com/fluency/96/car.png" alt="임베디드" width="80" style="margin-bottom: 20px;"/>
-        <h2 style="margin: 20px 0; color: #1565c0;"> 임베디드</h2>
-        <p style="font-size: 1.1em; line-height: 1.6; color: #424242;">
-          차량 인포테인먼트 시스템<br>
-          임베디드 C++ 개발<br>
-          HMI/UI 시스템 설계
+        <p style="font-size: 18px; line-height: 2;">
+          <b>언리얼 엔진 클라이언트</b><br>
+          <b>UI/UX 시스템 설계</b><br>
+          <b>멀티플레이어 네트워크</b>
         </p>
+      </a>
+    </td>
+    <td width="50%" align="center" style="padding: 40px;">
+      <a href="./KimGunwoo-CoverLetter-Embedded.md" style="text-decoration: none;">
+        <h2>임베디드 자기소개서</h2>
         <br>
-        <button style="
-          background: #2196F3;
-          color: white;
-          border: none;
-          padding: 12px 30px;
-          border-radius: 25px;
-          font-size: 1.1em;
-          cursor: pointer;
-          font-weight: bold;
-        ">
-          임베디드 자소서 보기 →
-        </button>
-      </div>
-    </div>
-  </a>
-
-</div>
+        <p style="font-size: 18px; line-height: 2;">
+          <b>차량 인포테인먼트</b><br>
+          <b>임베디드 C++ 개발</b><br>
+          <b>HMI/UI 시스템</b>
+        </p>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br><br><br>
 
@@ -87,8 +48,8 @@
   </p>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E3F2FD,100:FFF9C4&height=100&section=footer" />
 </div>
