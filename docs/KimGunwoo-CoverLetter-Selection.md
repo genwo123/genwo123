@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=자기소개서&fontSize=60&fontAlign=50&fontAlignY=35" alt="자기소개서" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E3F2FD,100:FFF9C4&height=200&section=header&text=자기소개서&fontSize=60&fontAlign=50&fontAlignY=35" alt="자기소개서" />
 </div>
 
 <br><br>
