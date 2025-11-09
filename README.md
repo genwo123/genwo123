@@ -62,7 +62,7 @@
     <img src="./image/이력서.png" alt="게임 개발자 이력서" style="display: block; width: 400px; height: 267px; border-radius: 10px;" />
   </a>
   <a href="https://github.com/genwo123/genwo123/blob/master/docs/KimGunwoo-CoverLetter-Selection.md">
-    <img src="./image/자기소개서.png" alt="자기소개서 선택" />
+    <img src="./image/자기소개서.png" alt="자기소개서 선택" style="display: block; width: 400px; height: 267px; border-radius: 10px;" />
   </a>
   <a href="https://github.com/genwo123/Game-Dev-Portfolio">
     <img src="./image/게임포트폴리오.png" alt="게임 개발 포트폴리오" style="display: block; width: 400px; height: 267px; border-radius: 10px;" />
