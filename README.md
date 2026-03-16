@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![포트폴리오 바로가기](./image/portfolio-banner.png)](https://genwo123.github.io/genwo123)
+[![포트폴리오 바로가기](./image/portfolio-banner.png)](https://genwo123.github.io/genwo123/home/)
 
 </div>
 
